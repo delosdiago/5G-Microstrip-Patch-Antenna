@@ -10,4 +10,3 @@ Features
     Efficiency: Ensured high-frequency signal transmission with a Voltage Standing Wave Ratio (VSWR) of < 1.5.
     Signal Quality Improvement: Contributed to a 40% enhancement in signal quality.
 
-Getting Started
